@@ -1,0 +1,12 @@
+numpy
+scipy
+scikit-image
+cloudpickle
+pillow
+PyInstaller
+ttkthemes
+pygame
+pyglm
+watchdog
+PyOpenGL
+PyOpenGL_accelerate
